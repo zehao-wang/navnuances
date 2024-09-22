@@ -8,15 +8,6 @@ body {
     color: #000;
 }
 
-.blend-img-background {
-    mix-blend-mode: multiply;
-}
-
-.center-image {
-    display: block;
-    margin: 0 auto;
-}
-
 .link-block a {
     margin-top: 5px;
     margin-bottom: 5px;
@@ -142,5 +133,19 @@ body {
   font-size: smaller;
 }
 
+
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+
+
+.blend-img-item {
+    background: #f5f5f5;
+}
+
+.blend-img-background {
+    mix-blend-mode: multiply;
+}
 
 
