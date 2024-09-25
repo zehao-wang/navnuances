@@ -1,0 +1,2482 @@
+{
+    "ff9f20ef9e8b4a85aedd27912ee05e54": [
+        {
+            "stool_1": {
+                "heading": 14.58,
+                "distance": 1.27
+            },
+            "stool_2": {
+                "heading": -14.95,
+                "distance": 1.62
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 44.3,
+                "distance": 1.27
+            },
+            "stool_2": {
+                "heading": 48.19,
+                "distance": 1.18
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 75.23,
+                "distance": 1.27
+            },
+            "stool_2": {
+                "heading": 83.77,
+                "distance": 1.18
+            },
+            "stool_3": {
+                "heading": 91.08,
+                "distance": 1.04
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 113.72,
+                "distance": 1.18
+            },
+            "stool_2": {
+                "heading": 133.29,
+                "distance": 1.04
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 200.86,
+                "distance": 1.85
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 224.47,
+                "distance": 1.85
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 264.23,
+                "distance": 1.85
+            },
+            "side table ": {
+                "heading": 268.06,
+                "distance": 1.97
+            },
+            "stool": {
+                "heading": 265.24,
+                "distance": 1.62
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 298.73,
+                "distance": 1.85
+            },
+            "side table ": {
+                "heading": 303.84,
+                "distance": 1.97
+            },
+            "stool": {
+                "heading": 311.09,
+                "distance": 1.62
+            }
+        }
+    ],
+    "f3be6160453848c2a67b02e33ab9f44d": [
+        {
+            "bookshelf": {
+                "heading": 0.33,
+                "distance": 1.49
+            },
+            "stool": {
+                "heading": 18.05,
+                "distance": 1.89
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 38.44,
+                "distance": 1.49
+            },
+            "stool": {
+                "heading": 45.94,
+                "distance": 1.89
+            }
+        },
+        {
+            "stool": {
+                "heading": 77.44,
+                "distance": 1.89
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "bookshelf": {
+                "heading": 287.25,
+                "distance": 1.49
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 316.72,
+                "distance": 1.49
+            }
+        }
+    ],
+    "ed2415c9e6d24232af438dae3a3e20c5": [
+        {
+            "office chair ": {
+                "heading": -6.94,
+                "distance": 1.77
+            }
+        },
+        {},
+        {
+            "trash can ": {
+                "heading": 105.7,
+                "distance": 1.87
+            }
+        },
+        {
+            "cart": {
+                "heading": 142.97,
+                "distance": 1.88
+            },
+            "trash can ": {
+                "heading": 141.4,
+                "distance": 1.87
+            }
+        },
+        {
+            "cart": {
+                "heading": 179.29,
+                "distance": 1.88
+            },
+            "office chair ": {
+                "heading": 195.66,
+                "distance": 1.59
+            },
+            "trash can ": {
+                "heading": 174.28,
+                "distance": 1.87
+            }
+        },
+        {
+            "office chair ": {
+                "heading": 228.94,
+                "distance": 1.59
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 288.16,
+                "distance": 1.77
+            },
+            "office chair _2": {
+                "heading": 270.55,
+                "distance": 1.44
+            },
+            "office chair _3": {
+                "heading": 258.77,
+                "distance": 1.59
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 319.64,
+                "distance": 1.77
+            },
+            "office chair _2": {
+                "heading": 311.02,
+                "distance": 1.44
+            },
+            "office chair _3": {
+                "heading": 294.61,
+                "distance": 1.59
+            }
+        }
+    ],
+    "1c5df273f7a049d8b32b3c87e5fe97bb": [
+        {
+            "office chair _1": {
+                "heading": 15.8,
+                "distance": 1.2
+            },
+            "office chair _2": {
+                "heading": 12.0,
+                "distance": 1.49
+            },
+            "monitor": {
+                "heading": -0.75,
+                "distance": 1.85
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 50.04,
+                "distance": 1.2
+            },
+            "office chair _2": {
+                "heading": 42.07,
+                "distance": 1.49
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 87.84,
+                "distance": 1.62
+            },
+            "office chair _2": {
+                "heading": 94.62,
+                "distance": 1.2
+            },
+            "office chair _3": {
+                "heading": 90.98,
+                "distance": 1.34
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 126.8,
+                "distance": 1.62
+            },
+            "office chair _2": {
+                "heading": 132.38,
+                "distance": 1.34
+            }
+        },
+        {},
+        {},
+        {},
+        {
+            "monitor": {
+                "heading": 327.47,
+                "distance": 1.85
+            }
+        }
+    ],
+    "389cd887147b4557a07ee8e9cb58833a": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "94582ecd71c0417ab88ec933184b8b63": [
+        {
+            "rolling cart ": {
+                "heading": 15.19,
+                "distance": 1.92
+            },
+            "computer equipment ": {
+                "heading": 10.48,
+                "distance": 1.77
+            },
+            "desk chair ": {
+                "heading": -8.55,
+                "distance": 1.6
+            }
+        },
+        {
+            "rolling cart ": {
+                "heading": 44.03,
+                "distance": 1.92
+            },
+            "computer equipment ": {
+                "heading": 39.12,
+                "distance": 1.77
+            }
+        },
+        {
+            "rolling cart ": {
+                "heading": 77.06,
+                "distance": 1.92
+            }
+        },
+        {},
+        {
+            "desk chair ": {
+                "heading": 198.02,
+                "distance": 1.58
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 228.95,
+                "distance": 1.58
+            },
+            "desk chair _2": {
+                "heading": 226.36,
+                "distance": 1.54
+            },
+            "projector": {
+                "heading": 239.2,
+                "distance": 1.82
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 265.41,
+                "distance": 1.58
+            },
+            "desk chair _2": {
+                "heading": 264.05,
+                "distance": 1.54
+            },
+            "desk chair _3": {
+                "heading": 287.2,
+                "distance": 1.6
+            },
+            "projector": {
+                "heading": 272.78,
+                "distance": 1.82
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 310.29,
+                "distance": 1.54
+            },
+            "desk chair _2": {
+                "heading": 319.17,
+                "distance": 1.6
+            }
+        }
+    ],
+    "7cd287c5d5db4a6f812e1a5236cb63dc": [
+        {
+            "desk": {
+                "heading": -1.52,
+                "distance": 1.8
+            },
+            "office chair ": {
+                "heading": 9.09,
+                "distance": 1.86
+            }
+        },
+        {
+            "office chair ": {
+                "heading": 29.11,
+                "distance": 1.86
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "desk": {
+                "heading": 318.98,
+                "distance": 1.8
+            },
+            "office chair ": {
+                "heading": 318.8,
+                "distance": 1.86
+            }
+        }
+    ],
+    "d6c548c12e3248db8565452a436dee55": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "87cff1a8b93146819bfae6ca3561b968": [
+        {
+            "office chair ": {
+                "heading": 8.81,
+                "distance": 1.64
+            },
+            "desk": {
+                "heading": 8.37,
+                "distance": 1.61
+            }
+        },
+        {
+            "office chair ": {
+                "heading": 36.47,
+                "distance": 1.64
+            },
+            "desk": {
+                "heading": 35.11,
+                "distance": 1.61
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "a040c6015bc343d89d5e156fa4c5cde1": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "b71c82404a724450bb725f3406109e81": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "6ff3be51f7ca4a0a842ce752a5641f9f": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "office chair ": {
+                "heading": 197.62,
+                "distance": 1.92
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 226.27,
+                "distance": 1.94
+            },
+            "office chair _2": {
+                "heading": 233.13,
+                "distance": 1.92
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 266.99,
+                "distance": 1.94
+            },
+            "office chair _2": {
+                "heading": 262.1,
+                "distance": 1.92
+            }
+        },
+        {
+            "office chair ": {
+                "heading": 299.34,
+                "distance": 1.94
+            }
+        }
+    ],
+    "9edeb5c75fb140aaa2dc18c655feadf2": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "monitor": {
+                "heading": 285.75,
+                "distance": 1.93
+            }
+        },
+        {
+            "monitor": {
+                "heading": 314.57,
+                "distance": 1.93
+            }
+        }
+    ],
+    "31c5ad1761654315a9ea6cab678de132": [
+        {},
+        {
+            "office chair _1": {
+                "heading": 45.0,
+                "distance": 1.8
+            },
+            "office chair _2": {
+                "heading": 57.19,
+                "distance": 1.21
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 89.1,
+                "distance": 1.8
+            },
+            "office chair _2": {
+                "heading": 85.39,
+                "distance": 1.21
+            },
+            "office chair _3": {
+                "heading": 99.89,
+                "distance": 1.11
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 116.39,
+                "distance": 1.8
+            },
+            "office chair _2": {
+                "heading": 127.17,
+                "distance": 1.21
+            },
+            "office chair _3": {
+                "heading": 138.75,
+                "distance": 1.67
+            },
+            "office chair _4": {
+                "heading": 145.58,
+                "distance": 1.11
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 187.27,
+                "distance": 1.94
+            },
+            "monitor": {
+                "heading": 198.08,
+                "distance": 1.64
+            },
+            "office chair _1": {
+                "heading": 171.11,
+                "distance": 1.67
+            },
+            "office chair _2": {
+                "heading": 176.93,
+                "distance": 1.11
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 224.74,
+                "distance": 1.94
+            },
+            "monitor": {
+                "heading": 225.86,
+                "distance": 1.64
+            },
+            "office chair _1": {
+                "heading": 207.8,
+                "distance": 1.67
+            },
+            "office chair _2": {
+                "heading": 204.09,
+                "distance": 1.11
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 265.45,
+                "distance": 1.94
+            }
+        },
+        {}
+    ],
+    "6ad2166806a843fe8b71b97b8f59892b": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "32567588ba2745e094720d9963fa11f4": [
+        {
+            "chair_1": {
+                "heading": 8.11,
+                "distance": 1.44
+            },
+            "chair_2": {
+                "heading": 13.78,
+                "distance": 1.47
+            },
+            "picture": {
+                "heading": 6.98,
+                "distance": 1.33
+            }
+        },
+        {
+            "chair": {
+                "heading": 53.25,
+                "distance": 1.47
+            },
+            "picture": {
+                "heading": 41.7,
+                "distance": 1.33
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 99.26,
+                "distance": 1.47
+            },
+            "chair_2": {
+                "heading": 104.81,
+                "distance": 1.52
+            }
+        },
+        {
+            "chair": {
+                "heading": 138.68,
+                "distance": 1.52
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 178.05,
+                "distance": 1.39
+            },
+            "chair_2": {
+                "heading": 188.32,
+                "distance": 1.52
+            }
+        },
+        {
+            "chair": {
+                "heading": 228.94,
+                "distance": 1.39
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 283.31,
+                "distance": 1.44
+            },
+            "chair_2": {
+                "heading": 264.52,
+                "distance": 1.39
+            }
+        },
+        {
+            "chair": {
+                "heading": 315.53,
+                "distance": 1.44
+            }
+        }
+    ],
+    "2b89c0792ebd409f9dbde95769017faa": [
+        {},
+        {},
+        {
+            "picture": {
+                "heading": 93.95,
+                "distance": 1.09
+            }
+        },
+        {
+            "picture": {
+                "heading": 135.93,
+                "distance": 1.09
+            }
+        },
+        {},
+        {},
+        {},
+        {}
+    ],
+    "34f4f7c661e845fa9729246b873874a7": [
+        {
+            "desk chair _1": {
+                "heading": 14.39,
+                "distance": 1.0
+            },
+            "desk chair _2": {
+                "heading": 11.37,
+                "distance": 1.62
+            },
+            "cabinet": {
+                "heading": -6.42,
+                "distance": 1.32
+            },
+            "trash can ": {
+                "heading": -11.25,
+                "distance": 1.96
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 50.53,
+                "distance": 1.0
+            },
+            "desk chair _2": {
+                "heading": 39.48,
+                "distance": 1.62
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 94.15,
+                "distance": 1.0
+            },
+            "desk chair _2": {
+                "heading": 99.19,
+                "distance": 1.28
+            },
+            "desk chair _3": {
+                "heading": 88.35,
+                "distance": 1.97
+            },
+            "projector": {
+                "heading": 87.81,
+                "distance": 1.39
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 142.69,
+                "distance": 1.0
+            },
+            "desk chair _2": {
+                "heading": 142.47,
+                "distance": 1.28
+            },
+            "desk chair _3": {
+                "heading": 147.98,
+                "distance": 1.67
+            },
+            "projector": {
+                "heading": 122.67,
+                "distance": 1.39
+            }
+        },
+        {
+            "cabinet": {
+                "heading": 197.62,
+                "distance": 1.32
+            },
+            "desk chair _1": {
+                "heading": 175.17,
+                "distance": 1.28
+            },
+            "desk chair _2": {
+                "heading": 175.53,
+                "distance": 1.67
+            },
+            "telephone": {
+                "heading": 195.7,
+                "distance": 1.24
+            }
+        },
+        {
+            "cabinet": {
+                "heading": 229.92,
+                "distance": 1.32
+            },
+            "desk chair ": {
+                "heading": 205.73,
+                "distance": 1.67
+            },
+            "telephone": {
+                "heading": 227.79,
+                "distance": 1.24
+            },
+            "picture frame _1": {
+                "heading": 231.86,
+                "distance": 1.38
+            },
+            "picture frame _2": {
+                "heading": 223.22,
+                "distance": 1.07
+            }
+        },
+        {
+            "cabinet": {
+                "heading": 264.23,
+                "distance": 1.32
+            },
+            "decoration": {
+                "heading": 287.79,
+                "distance": 1.31
+            },
+            "trash can ": {
+                "heading": 282.47,
+                "distance": 1.96
+            },
+            "telephone": {
+                "heading": 259.41,
+                "distance": 1.24
+            },
+            "picture frame _1": {
+                "heading": 259.85,
+                "distance": 1.38
+            },
+            "picture frame _2": {
+                "heading": 265.76,
+                "distance": 1.07
+            }
+        },
+        {
+            "cabinet": {
+                "heading": 309.59,
+                "distance": 1.32
+            },
+            "decoration": {
+                "heading": 317.05,
+                "distance": 1.31
+            },
+            "trash can ": {
+                "heading": 315.56,
+                "distance": 1.96
+            },
+            "picture frame ": {
+                "heading": 296.67,
+                "distance": 1.07
+            }
+        }
+    ],
+    "abf2a4f981d9424b874127308de3bd05": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "82cde0c186664d388f703d027e310f81": [
+        {
+            "chair_1": {
+                "heading": 9.05,
+                "distance": 1.57
+            },
+            "chair_2": {
+                "heading": 12.98,
+                "distance": 1.63
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 45.52,
+                "distance": 1.57
+            },
+            "chair_2": {
+                "heading": 53.52,
+                "distance": 1.63
+            }
+        },
+        {
+            "stool": {
+                "heading": 88.98,
+                "distance": 1.99
+            },
+            "chair": {
+                "heading": 82.71,
+                "distance": 1.63
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 126.95,
+                "distance": 1.99
+            },
+            "stool_2": {
+                "heading": 143.91,
+                "distance": 1.64
+            }
+        },
+        {
+            "side table ": {
+                "heading": 174.94,
+                "distance": 1.56
+            },
+            "stool_1": {
+                "heading": 194.77,
+                "distance": 1.81
+            },
+            "stool_2": {
+                "heading": 189.52,
+                "distance": 1.64
+            }
+        },
+        {
+            "stool": {
+                "heading": 228.91,
+                "distance": 1.81
+            },
+            "side table ": {
+                "heading": 221.34,
+                "distance": 1.56
+            }
+        },
+        {
+            "chair": {
+                "heading": 284.58,
+                "distance": 1.57
+            },
+            "stool": {
+                "heading": 261.7,
+                "distance": 1.81
+            }
+        },
+        {
+            "chair": {
+                "heading": 321.3,
+                "distance": 1.57
+            }
+        }
+    ],
+    "fe945e5c9af94a28bc1575a1c4a71d85": [
+        {
+            "desk chair ": {
+                "heading": 16.41,
+                "distance": 1.41
+            },
+            "basket": {
+                "heading": 8.16,
+                "distance": 1.82
+            }
+        },
+        {
+            "monitor": {
+                "heading": 52.51,
+                "distance": 1.64
+            },
+            "desk chair ": {
+                "heading": 47.91,
+                "distance": 1.41
+            },
+            "keyboard": {
+                "heading": 49.97,
+                "distance": 1.51
+            },
+            "basket": {
+                "heading": 40.64,
+                "distance": 1.82
+            }
+        },
+        {
+            "light": {
+                "heading": 91.73,
+                "distance": 1.8
+            },
+            "monitor_1": {
+                "heading": 102.66,
+                "distance": 1.63
+            },
+            "monitor_2": {
+                "heading": 81.8,
+                "distance": 1.64
+            },
+            "desk chair _1": {
+                "heading": 84.28,
+                "distance": 1.41
+            },
+            "desk chair _2": {
+                "heading": 106.08,
+                "distance": 1.66
+            },
+            "cloth": {
+                "heading": 87.55,
+                "distance": 1.7
+            },
+            "keyboard": {
+                "heading": 78.82,
+                "distance": 1.51
+            }
+        },
+        {
+            "monitor": {
+                "heading": 133.3,
+                "distance": 1.63
+            },
+            "light": {
+                "heading": 129.61,
+                "distance": 1.8
+            },
+            "desk chair ": {
+                "heading": 137.05,
+                "distance": 1.66
+            },
+            "cloth": {
+                "heading": 136.1,
+                "distance": 1.7
+            }
+        },
+        {
+            "monitor": {
+                "heading": 165.7,
+                "distance": 1.63
+            },
+            "desk chair ": {
+                "heading": 168.34,
+                "distance": 1.66
+            }
+        },
+        {
+            "chair": {
+                "heading": 229.45,
+                "distance": 1.98
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 257.79,
+                "distance": 1.98
+            },
+            "chair_2": {
+                "heading": 278.09,
+                "distance": 1.91
+            }
+        },
+        {
+            "chair": {
+                "heading": 308.11,
+                "distance": 1.91
+            }
+        }
+    ],
+    "9bc875be102c409785e84510e100e8cb": [
+        {
+            "chair": {
+                "heading": 7.97,
+                "distance": 1.56
+            }
+        },
+        {},
+        {},
+        {
+            "stool_1": {
+                "heading": 138.14,
+                "distance": 1.06
+            },
+            "stool_2": {
+                "heading": 136.36,
+                "distance": 1.53
+            },
+            "stool_3": {
+                "heading": 156.94,
+                "distance": 1.71
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 175.17,
+                "distance": 1.06
+            },
+            "stool_2": {
+                "heading": 171.68,
+                "distance": 1.53
+            },
+            "stool_3": {
+                "heading": 184.44,
+                "distance": 1.71
+            },
+            "stool_4": {
+                "heading": 195.7,
+                "distance": 1.82
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 202.88,
+                "distance": 1.53
+            },
+            "stool_2": {
+                "heading": 231.82,
+                "distance": 1.82
+            }
+        },
+        {
+            "chair": {
+                "heading": 285.75,
+                "distance": 1.56
+            },
+            "stool": {
+                "heading": 263.02,
+                "distance": 1.82
+            }
+        },
+        {
+            "chair": {
+                "heading": 322.59,
+                "distance": 1.56
+            }
+        }
+    ],
+    "6c4b1070eaf343258115185091a21ed2": [
+        {
+            "bookshelf": {
+                "heading": 0.05,
+                "distance": 1.96
+            },
+            "stool_1": {
+                "heading": 7.88,
+                "distance": 1.86
+            },
+            "stool_2": {
+                "heading": 10.83,
+                "distance": 1.47
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 35.34,
+                "distance": 1.86
+            },
+            "stool_2": {
+                "heading": 40.69,
+                "distance": 1.47
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+            "bookshelf": {
+                "heading": 274.88,
+                "distance": 1.96
+            }
+        },
+        {
+            "bookshelf": {
+                "heading": 315.17,
+                "distance": 1.96
+            }
+        }
+    ],
+    "ff8b471dbb634c88a81c1806b55673dd": [
+        {
+            "picture": {
+                "heading": 0.89,
+                "distance": 1.32
+            },
+            "clock": {
+                "heading": 10.5,
+                "distance": 1.48
+            },
+            "trashcan": {
+                "heading": 20.39,
+                "distance": 1.7
+            }
+        },
+        {
+            "picture": {
+                "heading": 25.94,
+                "distance": 1.32
+            },
+            "kitchen cabinet ": {
+                "heading": 45.52,
+                "distance": 1.35
+            },
+            "trash can ": {
+                "heading": 55.5,
+                "distance": 1.58
+            },
+            "trashcan": {
+                "heading": 49.12,
+                "distance": 1.7
+            },
+            "kitchen counter ": {
+                "heading": 44.86,
+                "distance": 1.25
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 106.78,
+                "distance": 1.6
+            },
+            "kitchen cabinet _2": {
+                "heading": 81.73,
+                "distance": 1.35
+            },
+            "trash can ": {
+                "heading": 83.14,
+                "distance": 1.58
+            },
+            "trashcan": {
+                "heading": 82.38,
+                "distance": 1.7
+            },
+            "kitchen counter ": {
+                "heading": 85.92,
+                "distance": 1.25
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 144.18,
+                "distance": 1.6
+            },
+            "kitchen cabinet _2": {
+                "heading": 130.05,
+                "distance": 1.35
+            },
+            "trash can ": {
+                "heading": 116.39,
+                "distance": 1.58
+            },
+            "kitchen counter ": {
+                "heading": 129.23,
+                "distance": 1.25
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 174.72,
+                "distance": 1.6
+            },
+            "kitchen cabinet _2": {
+                "heading": 166.41,
+                "distance": 1.35
+            },
+            "stool": {
+                "heading": 192.7,
+                "distance": 1.72
+            }
+        },
+        {
+            "stool_1": {
+                "heading": 221.39,
+                "distance": 1.72
+            },
+            "stool_2": {
+                "heading": 232.17,
+                "distance": 1.24
+            }
+        },
+        {
+            "stool": {
+                "heading": 274.22,
+                "distance": 1.24
+            }
+        },
+        {
+            "picture": {
+                "heading": 315.47,
+                "distance": 1.32
+            }
+        }
+    ],
+    "3a6a8619f57043b7a9e3335f11f9cac5": [
+        {},
+        {
+            "rolling cart ": {
+                "heading": 45.8,
+                "distance": 1.64
+            }
+        },
+        {
+            "rolling cart ": {
+                "heading": 90.84,
+                "distance": 1.64
+            },
+            "computer equipment ": {
+                "heading": 86.26,
+                "distance": 1.46
+            }
+        },
+        {
+            "rolling cart ": {
+                "heading": 137.64,
+                "distance": 1.64
+            },
+            "computer equipment ": {
+                "heading": 125.94,
+                "distance": 1.46
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 177.11,
+                "distance": 1.99
+            },
+            "desk chair _2": {
+                "heading": 177.84,
+                "distance": 1.42
+            },
+            "desk chair _3": {
+                "heading": 188.06,
+                "distance": 1.25
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 212.42,
+                "distance": 1.99
+            },
+            "desk chair _2": {
+                "heading": 236.51,
+                "distance": 1.67
+            },
+            "desk chair _3": {
+                "heading": 236.61,
+                "distance": 1.91
+            },
+            "desk chair _4": {
+                "heading": 216.98,
+                "distance": 1.42
+            },
+            "desk chair _5": {
+                "heading": 230.74,
+                "distance": 1.25
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 269.23,
+                "distance": 1.67
+            },
+            "desk chair _2": {
+                "heading": 264.82,
+                "distance": 1.91
+            },
+            "desk chair _3": {
+                "heading": 256.83,
+                "distance": 1.42
+            },
+            "desk chair _4": {
+                "heading": 267.7,
+                "distance": 1.25
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 297.28,
+                "distance": 1.67
+            },
+            "desk chair _2": {
+                "heading": 294.56,
+                "distance": 1.25
+            }
+        }
+    ],
+    "80c509ddcfa44453a10f1b9134e6dcee": [
+        {
+            "tv stand ": {
+                "heading": -3.84,
+                "distance": 1.38
+            },
+            "office chair _1": {
+                "heading": 10.64,
+                "distance": 1.08
+            },
+            "office chair _2": {
+                "heading": 12.73,
+                "distance": 1.33
+            }
+        },
+        {
+            "garage door opener ": {
+                "heading": 47.77,
+                "distance": 1.61
+            },
+            "office chair _1": {
+                "heading": 44.16,
+                "distance": 1.08
+            },
+            "office chair _2": {
+                "heading": 43.59,
+                "distance": 1.33
+            }
+        },
+        {
+            "office chair ": {
+                "heading": 90.19,
+                "distance": 1.92
+            },
+            "garage door opener ": {
+                "heading": 83.44,
+                "distance": 1.61
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 138.23,
+                "distance": 1.54
+            },
+            "office chair _2": {
+                "heading": 142.22,
+                "distance": 1.11
+            },
+            "office chair _3": {
+                "heading": 124.12,
+                "distance": 1.92
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 196.59,
+                "distance": 1.38
+            },
+            "office chair _1": {
+                "heading": 176.51,
+                "distance": 1.54
+            },
+            "office chair _2": {
+                "heading": 181.12,
+                "distance": 1.11
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 236.25,
+                "distance": 1.38
+            },
+            "office chair _1": {
+                "heading": 207.28,
+                "distance": 1.54
+            },
+            "office chair _2": {
+                "heading": 202.69,
+                "distance": 1.11
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 266.67,
+                "distance": 1.38
+            }
+        },
+        {
+            "tv stand ": {
+                "heading": 314.87,
+                "distance": 1.38
+            }
+        }
+    ],
+    "77fe21141fc0440ebf42fab2ef3ffabe": [
+        {
+            "desk chair ": {
+                "heading": -6.38,
+                "distance": 1.75
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+            "desk chair ": {
+                "heading": 235.31,
+                "distance": 1.67
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 288.38,
+                "distance": 1.75
+            },
+            "desk chair _2": {
+                "heading": 270.39,
+                "distance": 1.5
+            },
+            "desk chair _3": {
+                "heading": 264.73,
+                "distance": 1.67
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 319.52,
+                "distance": 1.75
+            },
+            "desk chair _2": {
+                "heading": 311.26,
+                "distance": 1.5
+            },
+            "desk chair _3": {
+                "heading": 294.94,
+                "distance": 1.67
+            }
+        }
+    ],
+    "f8b2670423b84567bfcb673634861647": [
+        {
+            "desk chair _1": {
+                "heading": 9.96,
+                "distance": 1.99
+            },
+            "desk chair _2": {
+                "heading": 12.47,
+                "distance": 1.67
+            },
+            "desk chair _3": {
+                "heading": 13.69,
+                "distance": 1.15
+            },
+            "projector": {
+                "heading": 14.3,
+                "distance": 1.89
+            },
+            "telephone": {
+                "heading": -11.72,
+                "distance": 1.43
+            },
+            "picture frame ": {
+                "heading": -4.38,
+                "distance": 1.84
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 35.73,
+                "distance": 1.99
+            },
+            "desk chair _2": {
+                "heading": 41.78,
+                "distance": 1.67
+            },
+            "desk chair _3": {
+                "heading": 48.45,
+                "distance": 1.15
+            },
+            "projector": {
+                "heading": 43.15,
+                "distance": 1.89
+            }
+        },
+        {
+            "whiteboard": {
+                "heading": 109.41,
+                "distance": 1.53
+            },
+            "desk chair _1": {
+                "heading": 94.92,
+                "distance": 1.15
+            },
+            "desk chair _2": {
+                "heading": 93.38,
+                "distance": 1.37
+            },
+            "desk chair _3": {
+                "heading": 90.31,
+                "distance": 1.85
+            }
+        },
+        {
+            "whiteboard": {
+                "heading": 136.7,
+                "distance": 1.53
+            },
+            "desk chair _1": {
+                "heading": 133.89,
+                "distance": 1.37
+            },
+            "desk chair _2": {
+                "heading": 129.36,
+                "distance": 1.85
+            }
+        },
+        {
+            "whiteboard": {
+                "heading": 176.17,
+                "distance": 1.53
+            }
+        },
+        {
+            "whiteboard": {
+                "heading": 225.12,
+                "distance": 1.53
+            }
+        },
+        {
+            "whiteboard": {
+                "heading": 257.81,
+                "distance": 1.53
+            },
+            "telephone": {
+                "heading": 287.11,
+                "distance": 1.43
+            },
+            "picture frame ": {
+                "heading": 287.95,
+                "distance": 1.54
+            }
+        },
+        {
+            "telephone": {
+                "heading": 316.5,
+                "distance": 1.43
+            },
+            "picture frame _1": {
+                "heading": 315.91,
+                "distance": 1.54
+            },
+            "picture frame _2": {
+                "heading": 325.78,
+                "distance": 1.84
+            }
+        }
+    ],
+    "6895048a7d904c2c844aa0c93b80ce5c": [
+        {
+            "kitchen cabinet ": {
+                "heading": 12.75,
+                "distance": 1.8
+            },
+            "stool_1": {
+                "heading": -3.8,
+                "distance": 1.89
+            },
+            "stool_2": {
+                "heading": -4.64,
+                "distance": 1.47
+            },
+            "kitchen counter ": {
+                "heading": 12.35,
+                "distance": 1.79
+            }
+        },
+        {
+            "picture": {
+                "heading": 53.32,
+                "distance": 1.93
+            },
+            "kitchen cabinet ": {
+                "heading": 41.69,
+                "distance": 1.8
+            },
+            "sink": {
+                "heading": 47.51,
+                "distance": 1.68
+            },
+            "kitchen counter ": {
+                "heading": 43.85,
+                "distance": 1.79
+            },
+            "vessel": {
+                "heading": 56.53,
+                "distance": 1.65
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 108.75,
+                "distance": 1.64
+            },
+            "kitchen cabinet _2": {
+                "heading": 95.55,
+                "distance": 1.49
+            },
+            "picture": {
+                "heading": 83.25,
+                "distance": 1.93
+            },
+            "microwave": {
+                "heading": 108.16,
+                "distance": 1.72
+            },
+            "kitchen cabinet _3": {
+                "heading": 83.67,
+                "distance": 1.8
+            },
+            "sink": {
+                "heading": 77.58,
+                "distance": 1.68
+            },
+            "kitchen counter ": {
+                "heading": 89.12,
+                "distance": 1.79
+            },
+            "vessel": {
+                "heading": 86.91,
+                "distance": 1.65
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 132.37,
+                "distance": 1.64
+            },
+            "kitchen cabinet _2": {
+                "heading": 132.95,
+                "distance": 1.49
+            },
+            "microwave": {
+                "heading": 136.78,
+                "distance": 1.72
+            },
+            "kitchen cabinet _3": {
+                "heading": 134.24,
+                "distance": 1.8
+            },
+            "kitchen counter ": {
+                "heading": 131.69,
+                "distance": 1.79
+            }
+        },
+        {
+            "microwave": {
+                "heading": 166.22,
+                "distance": 1.72
+            },
+            "kitchen cabinet _1": {
+                "heading": 172.79,
+                "distance": 1.64
+            },
+            "kitchen cabinet _2": {
+                "heading": 172.73,
+                "distance": 1.8
+            },
+            "kitchen counter ": {
+                "heading": 166.8,
+                "distance": 1.79
+            }
+        },
+        {},
+        {},
+        {
+            "stool_1": {
+                "heading": 328.97,
+                "distance": 1.89
+            },
+            "stool_2": {
+                "heading": 325.56,
+                "distance": 1.47
+            }
+        }
+    ],
+    "f9d1ca3010504d76b745d6144318c912": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "7702f3ee1c70458899c05a50b8b1d875": [
+        {},
+        {},
+        {
+            "desk chair _1": {
+                "heading": 89.98,
+                "distance": 1.24
+            },
+            "desk chair _2": {
+                "heading": 102.47,
+                "distance": 1.79
+            },
+            "desk chair _3": {
+                "heading": 91.67,
+                "distance": 1.71
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 132.07,
+                "distance": 1.24
+            },
+            "desk chair _2": {
+                "heading": 132.14,
+                "distance": 1.79
+            },
+            "desk chair _3": {
+                "heading": 129.23,
+                "distance": 1.71
+            }
+        },
+        {
+            "desk chair _1": {
+                "heading": 166.97,
+                "distance": 1.24
+            },
+            "desk chair _2": {
+                "heading": 175.45,
+                "distance": 1.79
+            },
+            "decoration": {
+                "heading": 196.36,
+                "distance": 1.7
+            },
+            "trash can ": {
+                "heading": 198.33,
+                "distance": 1.96
+            }
+        },
+        {
+            "desk chair ": {
+                "heading": 207.09,
+                "distance": 1.79
+            },
+            "decoration": {
+                "heading": 227.98,
+                "distance": 1.7
+            },
+            "trash can ": {
+                "heading": 230.06,
+                "distance": 1.96
+            }
+        },
+        {
+            "trash can ": {
+                "heading": 262.12,
+                "distance": 1.96
+            }
+        },
+        {}
+    ],
+    "6653d46c77af458dad8243c60bf8ab0d": [
+        {
+            "desk chair ": {
+                "heading": 14.62,
+                "distance": 1.99
+            }
+        },
+        {
+            "desk chair ": {
+                "heading": 44.36,
+                "distance": 1.99
+            }
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "2d60c198cba5466bafbee296183f12cd": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "3399415150ee49ffa515aaddb57a5c72": [
+        {
+            "office chair _1": {
+                "heading": 3.52,
+                "distance": 1.74
+            },
+            "office chair _2": {
+                "heading": -7.03,
+                "distance": 1.44
+            },
+            "trash can ": {
+                "heading": 16.17,
+                "distance": 1.72
+            }
+        },
+        {
+            "cart": {
+                "heading": 54.33,
+                "distance": 1.34
+            },
+            "trash can ": {
+                "heading": 51.56,
+                "distance": 1.72
+            }
+        },
+        {
+            "cart": {
+                "heading": 87.11,
+                "distance": 1.34
+            },
+            "trash can ": {
+                "heading": 84.75,
+                "distance": 1.72
+            }
+        },
+        {
+            "cart": {
+                "heading": 126.86,
+                "distance": 1.34
+            }
+        },
+        {},
+        {
+            "office chair ": {
+                "heading": 235.0,
+                "distance": 1.68
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 265.98,
+                "distance": 1.68
+            },
+            "office chair _2": {
+                "heading": 285.09,
+                "distance": 1.74
+            },
+            "office chair _3": {
+                "heading": 265.69,
+                "distance": 1.44
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 307.62,
+                "distance": 1.68
+            },
+            "office chair _2": {
+                "heading": 322.0,
+                "distance": 1.74
+            },
+            "office chair _3": {
+                "heading": 315.0,
+                "distance": 1.44
+            }
+        }
+    ],
+    "9287ccedc2a1449b8d98069893796ce7": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "607a1df3700a4c49992e776499203e0f": [
+        {
+            "projector screen ": {
+                "heading": -13.08,
+                "distance": 1.84
+            }
+        },
+        {
+            "projector screen ": {
+                "heading": 44.91,
+                "distance": 1.84
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 104.86,
+                "distance": 1.22
+            },
+            "office chair _2": {
+                "heading": 105.14,
+                "distance": 1.68
+            },
+            "projector screen ": {
+                "heading": 94.48,
+                "distance": 1.84
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 139.55,
+                "distance": 1.22
+            },
+            "office chair _2": {
+                "heading": 140.3,
+                "distance": 1.68
+            },
+            "office chair _3": {
+                "heading": 156.98,
+                "distance": 1.05
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 186.02,
+                "distance": 1.22
+            },
+            "office chair _2": {
+                "heading": 174.84,
+                "distance": 1.68
+            },
+            "office chair _3": {
+                "heading": 181.97,
+                "distance": 1.05
+            },
+            "office chair _4": {
+                "heading": 194.25,
+                "distance": 1.67
+            }
+        },
+        {
+            "office chair _1": {
+                "heading": 222.96,
+                "distance": 1.05
+            },
+            "office chair _2": {
+                "heading": 223.43,
+                "distance": 1.67
+            }
+        },
+        {
+            "projector screen ": {
+                "heading": 279.89,
+                "distance": 1.84
+            },
+            "office chair _1": {
+                "heading": 261.8,
+                "distance": 1.05
+            },
+            "office chair _2": {
+                "heading": 256.78,
+                "distance": 1.67
+            }
+        },
+        {
+            "projector screen ": {
+                "heading": 316.78,
+                "distance": 1.84
+            }
+        }
+    ],
+    "237cf579b9724e82b11ce6b26544ccf0": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "793ca25615b5402388639a16a61f49ff": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "39a197d67c5b41dea32f6e70d74dd88c": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "8cbe0645c74748589e3a65bb4c6ac6e6": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "9ecb725719384358a22ddb54e33545a8": [
+        {
+            "chair_1": {
+                "heading": 14.86,
+                "distance": 1.37
+            },
+            "chair_2": {
+                "heading": 5.6,
+                "distance": 1.3
+            }
+        },
+        {
+            "chair": {
+                "heading": 50.71,
+                "distance": 1.37
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 105.23,
+                "distance": 1.36
+            },
+            "chair_2": {
+                "heading": 92.53,
+                "distance": 1.37
+            }
+        },
+        {
+            "chair": {
+                "heading": 138.47,
+                "distance": 1.36
+            }
+        },
+        {
+            "picture": {
+                "heading": 174.6,
+                "distance": 1.34
+            },
+            "chair_1": {
+                "heading": 195.75,
+                "distance": 1.39
+            },
+            "chair_2": {
+                "heading": 181.31,
+                "distance": 1.36
+            }
+        },
+        {
+            "picture": {
+                "heading": 220.99,
+                "distance": 1.34
+            },
+            "chair": {
+                "heading": 227.79,
+                "distance": 1.39
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 270.08,
+                "distance": 1.39
+            },
+            "chair_2": {
+                "heading": 268.43,
+                "distance": 1.3
+            }
+        },
+        {
+            "chair": {
+                "heading": 315.82,
+                "distance": 1.3
+            }
+        }
+    ],
+    "03559d70651f4463a4723bb1cd1f1130": [
+        {
+            "chair": {
+                "heading": 21.33,
+                "distance": 1.6
+            }
+        },
+        {
+            "chair": {
+                "heading": 51.35,
+                "distance": 1.6
+            }
+        },
+        {
+            "chair_1": {
+                "heading": 88.59,
+                "distance": 1.56
+            },
+            "chair_2": {
+                "heading": 97.29,
+                "distance": 1.6
+            }
+        },
+        {
+            "chair": {
+                "heading": 136.16,
+                "distance": 1.56
+            },
+            "trashcan": {
+                "heading": 142.08,
+                "distance": 1.96
+            }
+        },
+        {
+            "chair": {
+                "heading": 176.06,
+                "distance": 1.56
+            },
+            "trashcan": {
+                "heading": 174.38,
+                "distance": 1.96
+            }
+        },
+        {},
+        {},
+        {}
+    ],
+    "6c73229eda4e4babab7e704847222dbf": [
+        {
+            "foosball table ": {
+                "heading": -10.73,
+                "distance": 1.42
+            }
+        },
+        {
+            "picture": {
+                "heading": 55.25,
+                "distance": 0.78
+            }
+        },
+        {
+            "picture": {
+                "heading": 82.59,
+                "distance": 0.78
+            }
+        },
+        {
+            "picture": {
+                "heading": 131.12,
+                "distance": 0.78
+            }
+        },
+        {
+            "foosball table ": {
+                "heading": 192.38,
+                "distance": 1.42
+            },
+            "picture": {
+                "heading": 157.5,
+                "distance": 0.78
+            }
+        },
+        {
+            "foosball table ": {
+                "heading": 230.53,
+                "distance": 1.42
+            }
+        },
+        {
+            "foosball table ": {
+                "heading": 267.84,
+                "distance": 1.42
+            }
+        },
+        {
+            "foosball table ": {
+                "heading": 312.14,
+                "distance": 1.42
+            }
+        }
+    ],
+    "0515b61e017f4a32b6029acbc802c759": [
+        {
+            "kitchen cabinet ": {
+                "heading": 17.65,
+                "distance": 1.8
+            },
+            "stool_1": {
+                "heading": -7.97,
+                "distance": 1.37
+            },
+            "stool_2": {
+                "heading": -5.58,
+                "distance": 1.96
+            },
+            "kitchen counter _1": {
+                "heading": -5.88,
+                "distance": 1.33
+            },
+            "kitchen counter _2": {
+                "heading": 14.65,
+                "distance": 1.77
+            }
+        },
+        {
+            "kitchen cabinet _1": {
+                "heading": 45.08,
+                "distance": 1.45
+            },
+            "kitchen cabinet _2": {
+                "heading": 60.52,
+                "distance": 1.34
+            },
+            "kitchen cabinet _3": {
+                "heading": 48.34,
+                "distance": 1.8
+            },
+            "kitchen counter ": {
+                "heading": 46.54,
+                "distance": 1.77
+            }
+        },
+        {
+            "picture": {
+                "heading": 107.58,
+                "distance": 1.89
+            },
+            "kitchen cabinet _1": {
+                "heading": 87.64,
+                "distance": 1.45
+            },
+            "kitchen cabinet _2": {
+                "heading": 90.43,
+                "distance": 1.34
+            },
+            "kitchen cabinet _3": {
+                "heading": 84.05,
+                "distance": 1.8
+            },
+            "kitchen counter ": {
+                "heading": 83.06,
+                "distance": 1.77
+            },
+            "vessel": {
+                "heading": 100.03,
+                "distance": 1.51
+            }
+        },
+        {
+            "picture": {
+                "heading": 136.32,
+                "distance": 1.89
+            },
+            "kitchen cabinet _1": {
+                "heading": 121.92,
+                "distance": 1.34
+            },
+            "kitchen cabinet _2": {
+                "heading": 138.21,
+                "distance": 1.8
+            },
+            "sink": {
+                "heading": 136.37,
+                "distance": 1.91
+            },
+            "kitchen counter ": {
+                "heading": 130.58,
+                "distance": 1.77
+            },
+            "vessel": {
+                "heading": 130.24,
+                "distance": 1.51
+            }
+        },
+        {
+            "kitchen cabinet ": {
+                "heading": 178.2,
+                "distance": 1.8
+            },
+            "stool_1": {
+                "heading": 198.8,
+                "distance": 1.33
+            },
+            "stool_2": {
+                "heading": 191.81,
+                "distance": 1.66
+            },
+            "sink": {
+                "heading": 167.06,
+                "distance": 1.91
+            },
+            "kitchen counter _1": {
+                "heading": 193.27,
+                "distance": 1.33
+            },
+            "kitchen counter _2": {
+                "heading": 173.62,
+                "distance": 1.77
+            }
+        },
+        {
+            "kitchen counter ": {
+                "heading": 224.92,
+                "distance": 1.33
+            },
+            "stool_1": {
+                "heading": 227.3,
+                "distance": 1.33
+            },
+            "stool_2": {
+                "heading": 233.32,
+                "distance": 1.12
+            },
+            "stool_3": {
+                "heading": 220.64,
+                "distance": 1.66
+            }
+        },
+        {
+            "kitchen counter ": {
+                "heading": 260.16,
+                "distance": 1.33
+            },
+            "stool_1": {
+                "heading": 258.61,
+                "distance": 1.33
+            },
+            "stool_2": {
+                "heading": 283.83,
+                "distance": 1.37
+            },
+            "stool_3": {
+                "heading": 276.63,
+                "distance": 1.12
+            }
+        },
+        {
+            "kitchen counter ": {
+                "heading": 318.55,
+                "distance": 1.33
+            },
+            "stool_1": {
+                "heading": 317.58,
+                "distance": 1.37
+            },
+            "stool_2": {
+                "heading": 323.88,
+                "distance": 1.96
+            }
+        }
+    ],
+    "bc43675a60e348aebc6ed08fcab966f0": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "monitor": {
+                "heading": 228.57,
+                "distance": 1.73
+            },
+            "cloth": {
+                "heading": 232.27,
+                "distance": 1.41
+            }
+        },
+        {
+            "monitor_1": {
+                "heading": 257.41,
+                "distance": 1.73
+            },
+            "monitor_2": {
+                "heading": 277.97,
+                "distance": 1.59
+            },
+            "light": {
+                "heading": 269.18,
+                "distance": 1.97
+            },
+            "cloth": {
+                "heading": 268.78,
+                "distance": 1.41
+            }
+        },
+        {
+            "monitor": {
+                "heading": 307.92,
+                "distance": 1.59
+            },
+            "light": {
+                "heading": 312.38,
+                "distance": 1.97
+            },
+            "cloth": {
+                "heading": 315.36,
+                "distance": 1.41
+            }
+        }
+    ],
+    "c47ebe08ee5a46bc919e653717fb5cac": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ]
+}
