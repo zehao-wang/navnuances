@@ -14,6 +14,11 @@
 <br>
 
 </div>
+<br>
+
+## Abstract
+
+This study presents a novel evaluation framework for the Vision-Language Navigation (VLN) task. It aims to diagnose current models for various instruction categories at a finer-grained level. The framework is structured around the context-free grammar (CFG) of the task. The CFG serves as the basis for the problem decomposition and the core premise of the instruction categories design. We propose a semi-automatic method for CFG construction with the help of Large-Language Models (LLMs). Then, we induct and generate data spanning five principal instruction categories (i.e. direction change, landmark recognition, region recognition, vertical movement, and numerical comprehension). Our analysis of different models reveals notable performance discrepancies and recurrent issues. The stagnation of numerical comprehension, heavy selective biases over directional concepts, and other interesting findings contribute to the development of future language-guided navigation systems. A brief introduction of the project is available [here](https://zehao-wang.github.io/navnuances).
 
 ## Environment Setup
 
@@ -52,7 +57,8 @@ sh run_pred.sh  # no intermediate log
 ```
 
 ## Citation
-```
+If you're using NavNuances in your research, please cite using the following BibTeX:
+```bibtex
 @inproceedings{wang2024navigating,
   title={Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation},
   author={Wang, Zehao and Wu, Minye and Cao, Yixin and Ma, Yubo and Chen, Meiqi and Tuytelaars, Tinne},
