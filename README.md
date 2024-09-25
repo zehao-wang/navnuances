@@ -14,7 +14,6 @@
 <br>
 
 </div>
-<br>
 
 ## Abstract
 
