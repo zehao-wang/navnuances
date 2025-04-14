@@ -5,7 +5,7 @@
 <div>
     <a href="https://homes.esat.kuleuven.be/~zwang" target="_blank">Zehao Wang</a><sup>1</sup>,
     <a href="https://wuminye.github.io/" target="_blank">Minye Wu</a><sup>1</sup>,
-    <a href="https://sites.google.com/view/yixin-homepage" target="_blank">Yixin Cao</a><sup>4</sup>,
+    <a href="https://taominer.github.io/" target="_blank">Yixin Cao</a><sup>4</sup>,
     <a href="https://mayubo2333.github.io" target="_blank">Yubo Ma</a><sup>3</sup>,
     <a href="https://chenmeiqii.github.io" target="_blank">Meiqi Chen</a><sup>2</sup>,
     <a href="https://www.esat.kuleuven.be/psi/TT" target="_blank">Tinne Tuytelaars</a><sup>1</sup> 
