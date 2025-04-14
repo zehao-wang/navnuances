@@ -14,7 +14,9 @@ def build_dataset(args):
     feat_db = ImageObservationsDB(args.obs_dir, args.obs_summary_dir, args.obj_dir)
     dataset_class = R2RNavBatch
 
-    val_env_names = ['DC_small2']
+    val_env_names = []
+    if len(val_env_names) == 0:
+        raise Exception("Please specify the split name")
 
     val_envs = {}
     for split in val_env_names:
